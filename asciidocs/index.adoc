@@ -48,8 +48,23 @@ https://www.volkszaehler.org/
 
 === Knopper Projekte
 
-* ChatGPT API
+==== ChatGPT API
 
 * platform.openai.com
 ** keine fixen Kosten
 ** Kostenobergrenze kann festgelegt werden
+
+* Playwright
+
+** https://medium.com/geekculture/using-chatgpt-in-python-eeaed9847e72[Using ChatGPT in Python^]
+
+image::chat-gpt-python-request.png[]
+
+.Teil des Plugin-Scripts für BigBlueButton
+image::chat-gpt-python-request-2.png[]
+
+* Man kann ChatGPT auch in Teams integrieren
+
+==== OnlyOffice
+
+==== ChatBot mit ChatGPT fpür BigBlueButton erstellen
