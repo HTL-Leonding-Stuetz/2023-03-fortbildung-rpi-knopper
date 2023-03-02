@@ -38,6 +38,9 @@ https://www.volkszaehler.org/
 
 * https://wokwi.com/
 
+
+==== Mozilla Deep Speech
+
 === LiTec
 
 * https://www.creality.com/products/cr-6-se-3d-printer?spm=..page_1967279.products_display_1.1&spm_prev=..product_f0148808-0e91-4f2a-8b84-483b48a36146.header_1.1[Creality CR-6 E^]
@@ -45,6 +48,14 @@ https://www.volkszaehler.org/
 
 * https://bambulab.com[Bambu Lab X1^] (Tipp von ??)
 ** mit verschiedenen Farben
+
+
+===
+
+* Standortbestimmung mit UWB
+
+** https://www.mouser.at/ProductDetail/Qorvo/DWM1001-DEV?qs=TiOZkKH1s2T4sar5INj0ew%3D%3D[Qorvo DWM1001-DEV^]
+** https://www.mouser.at/ProductDetail/Qorvo/MDEK1001?qs=TiOZkKH1s2TlRZBi6MtMNg%3D%3D[Qorvo MDEK1001]
 
 === Knopper Projekte
 
@@ -68,3 +79,8 @@ image::chat-gpt-python-request-2.png[]
 ==== OnlyOffice
 
 ==== ChatBot mit ChatGPT fpür BigBlueButton erstellen
+
+
+++++
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fo7eDw7dA2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+++++
