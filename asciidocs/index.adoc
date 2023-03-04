@@ -22,6 +22,11 @@ https://bbb.rlp.net/b/kno-2x3-c6q[^]
 
 == Teilnehmerprojekte
 
+=== TGM
+
+* https://m5stack.com/
+** modulare ESP32 für Arbeit mit Schülern
+
 === HTL Perg
 
 Johannes Oppitz
@@ -38,6 +43,9 @@ https://www.volkszaehler.org/
 
 * https://wokwi.com/
 
+==== Deutsche Lieferadresse
+
+* https://www.logoix.com/cgi-bin/index.pl[logoix - persönliche Lieferadresse in Deutschland]
 
 ==== Mozilla Deep Speech
 
@@ -50,7 +58,7 @@ https://www.volkszaehler.org/
 ** mit verschiedenen Farben
 
 
-===
+
 
 * Standortbestimmung mit UWB
 
@@ -78,7 +86,7 @@ image::chat-gpt-python-request-2.png[]
 
 ==== OnlyOffice
 
-==== ChatBot mit ChatGPT fpür BigBlueButton erstellen
+==== ChatBot mit ChatGPT für BigBlueButton erstellen
 
 
 ++++
